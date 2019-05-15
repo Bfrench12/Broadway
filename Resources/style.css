@@ -5,3 +5,10 @@
 #In_Newyork {
   background-image: url(Images/the-flatiron-building.png);
 }
+
+#bottom {
+  text-align: left;
+}
+body {
+  text-align: center;
+}
