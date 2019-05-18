@@ -1,5 +1,14 @@
-#home {
+#hero-image {
   background-image: url(Images/the-flatiron-building.png);
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#hero-text{
+  color: white;
 }
 
 #In_Newyork {
@@ -9,6 +18,26 @@
 #bottom {
   text-align: left;
 }
+
 body {
   text-align: center;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 18px;
+  color: white;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
 }
